@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.16" />
+  <meta name="author" content="Anmol Sharma">
+  <meta name="description" content="Machine Learning Engineer">
+
+  <link rel="stylesheet" href="https://trane293.github.io/css/highlight.min.css">
+  <link rel="stylesheet" href="https://trane293.github.io/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://trane293.github.io/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://trane293.github.io/css/academicons.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  <link rel="stylesheet" href="https://trane293.github.io/css/hugo-academic.css">
+  
+
+  
+  <link rel="shortcut icon" href="https://trane293.github.io/img/favicon.ico" type="image/x-icon">
+  <link rel="canonical" href="https://trane293.github.io/publication/feature_selection/">
+
+  <title>Automatic Characterization of Breast Masses using NSGA-II based Feature Selection | Anmol Sharma</title>
+
+</head>
+<body id="top">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://trane293.github.io/">Anmol Sharma</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+        <li class="nav-item"><a href="https://trane293.github.io/#top">Home</a></li>
+        
+        <li class="nav-item"><a href="https://trane293.github.io/#publications">Publications</a></li>
+        
+        <li class="nav-item"><a href="https://trane293.github.io/#projects">Projects</a></li>
+        
+        <li class="nav-item"><a href="https://trane293.github.io/#posts">Posts</a></li>
+        
+        <li class="nav-item"><a href="https://trane293.github.io/#contact">Contact</a></li>
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="pub-title">
+      <h1 itemprop="name">Automatic Characterization of Breast Masses using NSGA-II based Feature Selection</h1>
+      <span class="pub-authors" itemprop="author">
+                
+                Anmol Sharma, Harman Preet Kaur, Jayasree Chakraborty, Abhishek Midya
+                
+            </span>
+      <span class="pull-right">
+                
+<div class="share-box">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftrane293.github.io%2fpublication%2ffeature_selection%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Automatic%20Characterization%20of%20Breast%20Masses%20using%20NSGA-II%20based%20Feature%20Selection&amp;url=https%3a%2f%2ftrane293.github.io%2fpublication%2ffeature_selection%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftrane293.github.io%2fpublication%2ffeature_selection%2f&amp;title=Automatic%20Characterization%20of%20Breast%20Masses%20using%20NSGA-II%20based%20Feature%20Selection"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftrane293.github.io%2fpublication%2ffeature_selection%2f&amp;title=Automatic%20Characterization%20of%20Breast%20Masses%20using%20NSGA-II%20based%20Feature%20Selection"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Automatic%20Characterization%20of%20Breast%20Masses%20using%20NSGA-II%20based%20Feature%20Selection&amp;body=https%3a%2f%2ftrane293.github.io%2fpublication%2ffeature_selection%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+            </span>
+    </div>
+
+    
+    <img src="https://trane293.github.io/img/fs_prep.png" class="pub-banner" itemprop="image">
+    
+
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Breast cancer has been the second leading cause of death among women after lung cancer according to the American Cancer Society. Early detection of breast cancer is critical and can reduce the mortality rate by a large margin. Computer Aided Diagnosis System (CADx) have shown to help radiologists in effectively identifying abnormalities and correctly classify them as benign or malignant. In this paper, we propose a system for the classification of mammographic masses as benign or malignant. Through this study our contribution is two fold; we investigate the use of true TRS invariant Zernike Moments as global shape descriptors, which to our knowledge has not been applied to mammographic mass classification task. Second, we propose a wrapper based feature selection scheme based upon an evolutionary algorithm and a novel set of 3 objective functions to minimize. The underlying algorithm in our feature selection method is a multi-objective Non-dominated Sorting Genetic Algorithm (NSGA-II) which minimizes our given set of 3 objective functions. Through experiments we show that our proposed set of 3 objective functions when minimized simultaneously, allows the NSGA-II to evolve a Pareto front of optimal solutions which reduce the original feature dimensionality by 98.71% (from 312 to 6), while significantly outperforming  lassifiers trained on features with high dimensionality. We report our results on 2 classifiers; Support Vector Machine (SVM) and Artificial Neural Network (ANN), and using 270 images from the DDSM Database.</p>
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9">Under Review at a tier-1 Elsevier journal</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            September, 2016
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+  </div>
+
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="https://trane293.github.io/publication/signature_verification/"><span
+      aria-hidden="true">&larr;</span> Offline Handwritten Signature Verification using Zernike Moments</a></li>
+    
+
+    
+    <li class="next"><a href="https://trane293.github.io/publication/cad_segment/">A CADe System for Gliomas in Brain MRI based on Convolutional Neural Networks <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+
+</div>
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2016 Anmol Sharma &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+    <script src="https://trane293.github.io/js/jquery-1.12.3.min.js"></script>
+    <script src="https://trane293.github.io/js/bootstrap.min.js"></script>
+    <script src="https://trane293.github.io/js/hugo-academic.js"></script>
+    
+
+    
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    
+
+  </body>
+</html>
+

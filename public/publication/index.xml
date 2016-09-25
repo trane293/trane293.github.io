@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Anmol Sharma</title>
+    <link>https://trane293.github.io/publication/</link>
+    <description>Recent content in Publications on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Anmol Sharma</copyright>
+    <lastBuildDate>Thu, 29 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://trane293.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A CADe System for Gliomas in Brain MRI based on Convolutional Neural Networks</title>
+      <link>https://trane293.github.io/publication/cad_segment/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/cad_segment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Characterization of Breast Masses using NSGA-II based Feature Selection</title>
+      <link>https://trane293.github.io/publication/feature_selection/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/feature_selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Offline Handwritten Signature Verification using Zernike Moments</title>
+      <link>https://trane293.github.io/publication/signature_verification/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/signature_verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising using Spatial Domain Filters: A Quantitative Study</title>
+      <link>https://trane293.github.io/publication/image_denoising/</link>
+      <pubDate>Mon, 16 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/image_denoising/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
