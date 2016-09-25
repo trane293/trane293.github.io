@@ -1,26 +1,20 @@
-language: go
-
-go:
-    - "1.5.1"
-
 env:
-    global:
-        - SSH_KEY="id_rsa"
-        - GIT_NAME="Anmol Sharma"
-        - GIT_EMAIL="anmol.sharma293@gmail.com"
-        - SOURCE_DIR="public"
-        - DEPLOY_BRANCH="source"
+  global:
+    secure: BZMYi5PRJO2Oj6bk3r2ZDzmFrSDqR9P+/GB0kp8s+pTxsB8l1o4YPudNy+Y8qOTaN/XxBGFS0UxReehFisN6lX6NSmyXi0zjW9ij+W8+VFOoHRGp8la8sAxzGhCM3sxTTGtYs7+bMvvzsHyf0wWQHA8msfkHgqGVvWAWua8ANI3lUFxPdrG68pK8Fhi59EffG0aIPno8dPzJ5Ky8mDwEX3nJhz6chSxDrDGmTTJ4CyfB9QPdu8wTBjWHH5YxAFFQmg4T489ak0qAWrPukGFamH81UldKj3BOPxEDjHXIxcbWInMuTooT9u0JhzsWfsO3qESKawmvLExQYbbY/oHU8gJPj0m+MoQL0UdzAoTupnF4L86Ynv+47edkK+a7QgG8QU8U1Y9W20R6oVsmlExiKdb8jbn8XFEmZPFqsEAq/HzBpCOHLx3Ke7sifaqRVJLrQXOkqr8m4zSIDIPn92kmTYVX+ZiIoN0sE/PU56mXwPGfMc8ByftGnQgWQS0Y6RtiTxY1Zq9Q0FzF2+VhRcYiax7PgAosGXgo+Nq7WGmM/HreKG2dbC1sXUDi8sZAvCy4CXnWH8w911hL4ZxTIaHkn2eCxCAiAPcnRT/nywOlDIKluFatYM8dJju2pDg4c5WsqzsxkCRJi4WKo7titvbSblrwsK507R7Eg9nJMP06MQw=
 
-before_install:
-    - openssl aes-256-cbc -K $encrypted_5badef0aa7c9_key -iv $encrypted_5badef0aa7c9_iv -in id_rsa.enc -out id_rsa -d
+    - GIT_DEPLOY_DIR=public # this is the default output dir of Hugo
+    - GIT_DEPLOY_BRANCH=master # this is the target branch, replace by gh-pages for Project Pages
+    - GIT_DEPLOY_USERNAME="Anmol Sharma" # dummy name
+    - GIT_DEPLOY_EMAIL=anmol.sharma293@gmail.com # replace by your email
+branches:
+  only:
+    - sources # replace by master for Project Pages
 
-before_script:
-    - go get -u -v github.com/spf13/hugo
-
+install:
+  - rm -rf public || exit 0 # cleanup previous run
 script:
     - git clone https://github.com/gcushen/hugo-academic.git ./themes/academic
     - hugo
-
 after_success:
-    - echo "rcoedo.com" > ./public/CNAME
-    - ./scripts/deploy.sh
+  - cp .travis.yml public # all branches need this file
+  - bash deploy.sh # run the deploy script
