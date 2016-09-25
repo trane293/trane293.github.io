@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Anmol Sharma</title>
-    <link>http://replace-this-with-your-website-url.com/home/</link>
+    <link>http://trane293.github.io/home/</link>
     <description>Recent content in Homes on Anmol Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Anmol Sharma</copyright>
     <lastBuildDate>Wed, 21 Sep 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-website-url.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://trane293.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

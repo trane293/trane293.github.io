@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Anmol Sharma</title>
-    <link>http://replace-this-with-your-website-url.com/post/</link>
+    <link>http://trane293.github.io/post/</link>
     <description>Recent content in Posts on Anmol Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Anmol Sharma</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-website-url.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://trane293.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Getting started with the Academic theme for Hugo</title>
-      <link>http://replace-this-with-your-website-url.com/post/getting-started/</link>
+      <link>http://trane293.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/getting-started/</guid>
+      <guid>http://trane293.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;The Academic theme enables you to easily create a personal academic website using the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;
@@ -75,7 +75,7 @@ cd my_website
 
 &lt;p&gt;For deployment, the &lt;code&gt;baseURL&lt;/code&gt; variable should be changed to match your website URL such as &lt;code&gt;baseURL = &amp;quot;http://your-site.org/&amp;quot;&lt;/code&gt;. The example Disqus commenting variable should be cleared (e.g. &lt;code&gt;disqusShortname = &amp;quot;&amp;quot;&lt;/code&gt;) or set to your own Disqus shortname to enable commenting. To enable Google Analytics, add your tracking code in &lt;code&gt;config.toml&lt;/code&gt; similarly to &lt;code&gt;googleAnalytics = &amp;quot;UA-12345678-9&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;Next, you may be interested to read the guide about &lt;a href=&#34;http://replace-this-with-your-website-url.com/post/managing-content/&#34;&gt;managing content&lt;/a&gt;, or continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.&lt;/p&gt;
+&lt;p&gt;Next, you may be interested to read the guide about &lt;a href=&#34;http://trane293.github.io/post/managing-content/&#34;&gt;managing content&lt;/a&gt;, or continue reading below for advanced customization tips and instructions for keeping the theme up-to-date with any improvements that become available.&lt;/p&gt;
 
 &lt;h2 id=&#34;advanced-customization&#34;&gt;Advanced customization&lt;/h2&gt;
 
@@ -139,13 +139,13 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     
     <item>
       <title>Managing content</title>
-      <link>http://replace-this-with-your-website-url.com/post/managing-content/</link>
+      <link>http://trane293.github.io/post/managing-content/</link>
       <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/managing-content/</guid>
+      <guid>http://trane293.github.io/post/managing-content/</guid>
       <description>
 
-&lt;p&gt;This is a brief guide to managing content with the Academic theme. Content can include homepage sections, publications, projects, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;http://replace-this-with-your-website-url.com/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is a brief guide to managing content with the Academic theme. Content can include homepage sections, publications, projects, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;http://trane293.github.io/post/writing-markdown-latex/&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;To enable LaTeX math rendering for a page, you should include &lt;code&gt;math = true&lt;/code&gt; in the page&amp;rsquo;s &lt;code&gt;+++&lt;/code&gt; preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set &lt;code&gt;math = true&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
 
@@ -277,10 +277,10 @@ Further details on your publication can be written here using *Markdown* for for
     
     <item>
       <title>Writing content with Markdown, LaTeX, and Shortcodes</title>
-      <link>http://replace-this-with-your-website-url.com/post/writing-markdown-latex/</link>
+      <link>http://trane293.github.io/post/writing-markdown-latex/</link>
       <pubDate>Wed, 20 Apr 2016 10:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/writing-markdown-latex/</guid>
+      <guid>http://trane293.github.io/post/writing-markdown-latex/</guid>
       <description>
 
 &lt;p&gt;Content can be written using &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34;&gt;Markdown&lt;/a&gt;, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt;, and &lt;a href=&#34;http://gohugo.io/extras/shortcodes/&#34;&gt;Hugo Shortcodes&lt;/a&gt;. Additionally, HTML may be used for advanced formatting.&lt;/p&gt;
@@ -445,10 +445,10 @@ print(&amp;quot;You entered: {}&amp;quot;.format(input_string_var))
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://replace-this-with-your-website-url.com/post/migrate-from-jekyll/</link>
+      <link>http://trane293.github.io/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/migrate-from-jekyll/</guid>
+      <guid>http://trane293.github.io/post/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -473,7 +473,7 @@ With Jekyll, something that looked like&lt;/p&gt;
 
 &lt;h2 id=&#34;create-your-hugo-configuration-file&#34;&gt;Create your Hugo configuration file&lt;/h2&gt;
 
-&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://replace-this-with-your-website-url.com/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://trane293.github.io/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
 
 &lt;h2 id=&#34;set-your-configuration-publish-folder-to-site&#34;&gt;Set your configuration publish folder to &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
 
@@ -499,13 +499,13 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 
 &lt;h2 id=&#34;convert-jekyll-templates-to-hugo-templates&#34;&gt;Convert Jekyll templates to Hugo templates&lt;/h2&gt;
 
-&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://replace-this-with-your-website-url.com/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://trane293.github.io/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
 
 &lt;p&gt;As a single reference data point, converting my templates for &lt;a href=&#34;http://heyitsalex.net/&#34;&gt;heyitsalex.net&lt;/a&gt; took me no more than a few hours.&lt;/p&gt;
 
 &lt;h2 id=&#34;convert-jekyll-plugins-to-hugo-shortcodes&#34;&gt;Convert Jekyll plugins to Hugo shortcodes&lt;/h2&gt;
 
-&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://replace-this-with-your-website-url.com/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
+&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://trane293.github.io/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
 
 &lt;h3 id=&#34;implementation&#34;&gt;Implementation&lt;/h3&gt;
 
