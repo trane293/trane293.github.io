@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
-    <lastBuildDate>Mon, 20 May 2019 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://trane293.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://trane293.github.io/publication/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 20 May 2019 10:00:00 +0000</pubDate>
       
       <guid>https://trane293.github.io/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://trane293.github.io/publication/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://trane293.github.io/publication/</guid>
       <description></description>
     </item>
     

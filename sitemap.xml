@@ -3,32 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://trane293.github.io/talk/mmgan-ubc/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
+    <loc>https://trane293.github.io/publication_types/2/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trane293.github.io/authors/anmol-sharma/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trane293.github.io/authors/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/computer-vision/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trane293.github.io/tags/deep-learning/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trane293.github.io/tags/generative-adversarial-networks/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/authors/ghassan-hamarneh/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/medical-image-analysis/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/publication/mmgan_arxiv/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/mri/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/publication_types/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/publication/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/</loc>
+    <lastmod>2019-12-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/authors/ben-cardoen/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/publication/ergo_tmi/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/authors/hanene-ben-yedder/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/authors/ivan-robert-nabi/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/authors/keng-c-chou/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/long-short-term-memory-networks/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/super-resolution-microscopy/</loc>
+    <lastmod>2019-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/talk/mmgan-ubc/</loc>
     <lastmod>2019-05-20T10:00:00+00:00</lastmod>
   </url>
   
@@ -43,58 +123,13 @@
   </url>
   
   <url>
-    <loc>https://trane293.github.io/tags/mri/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://trane293.github.io/talk/</loc>
-    <lastmod>2019-05-20T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/tags/</loc>
     <lastmod>2019-05-20T10:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trane293.github.io/talk/mmgan-vin/</loc>
     <lastmod>2019-05-01T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/authors/ghassan-hamarneh/</loc>
-    <lastmod>2019-05-01T15:30:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/publication_types/3/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/tags/computer-vision/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/tags/medical-image-analysis/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/publication/mmgan_arxiv/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/publication_types/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/publication/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -183,12 +218,22 @@
   </url>
   
   <url>
+    <loc>https://trane293.github.io/publication_types/3/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://trane293.github.io/publication/cade-arxiv/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://trane293.github.io/authors/b.-uma-shankar/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trane293.github.io/tags/convolutional-neural-network/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -329,11 +374,6 @@
   
   <url>
     <loc>https://trane293.github.io/tags/blstm/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://trane293.github.io/tags/convolutional-neural-network/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
   </url>
   

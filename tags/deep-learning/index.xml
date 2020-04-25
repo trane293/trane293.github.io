@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
-    <lastBuildDate>Mon, 20 May 2019 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://trane293.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network</title>
+      <link>https://trane293.github.io/publication/mmgan_arxiv/</link>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/mmgan_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERGO: Efficient Recurrent Graph Optimized Emitter Density Estimation in Single Molecule Localization Microscopy</title>
+      <link>https://trane293.github.io/publication/ergo_tmi/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/ergo_tmi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Invited Talk] MM-GAN: Multi-Modal Generative Adversarial Network for Missing MRI Pulse Sequence Synthesis</title>
@@ -28,15 +46,6 @@
       
       <guid>https://trane293.github.io/talk/mmgan-vin/</guid>
       <description>Invited to present my research in which we proposed a multi-input, multi-output generative adversarial network (GAN) called MM-GAN.</description>
-    </item>
-    
-    <item>
-      <title>Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network</title>
-      <link>https://trane293.github.io/publication/mmgan_arxiv/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://trane293.github.io/publication/mmgan_arxiv/</guid>
-      <description></description>
     </item>
     
     <item>

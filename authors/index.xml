@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
-    <lastBuildDate>Mon, 20 May 2019 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://trane293.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Anmol Sharma</title>
       <link>https://trane293.github.io/authors/anmol-sharma/</link>
-      <pubDate>Mon, 20 May 2019 10:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://trane293.github.io/authors/anmol-sharma/</guid>
       <description></description>
@@ -24,9 +24,45 @@
     <item>
       <title>Ghassan Hamarneh</title>
       <link>https://trane293.github.io/authors/ghassan-hamarneh/</link>
-      <pubDate>Wed, 01 May 2019 15:30:00 +0000</pubDate>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://trane293.github.io/authors/ghassan-hamarneh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Cardoen</title>
+      <link>https://trane293.github.io/authors/ben-cardoen/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/authors/ben-cardoen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanene Ben Yedder</title>
+      <link>https://trane293.github.io/authors/hanene-ben-yedder/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/authors/hanene-ben-yedder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Robert Nabi</title>
+      <link>https://trane293.github.io/authors/ivan-robert-nabi/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/authors/ivan-robert-nabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keng C Chou</title>
+      <link>https://trane293.github.io/authors/keng-c-chou/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/authors/keng-c-chou/</guid>
       <description></description>
     </item>
     
