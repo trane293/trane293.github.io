@@ -13,38 +13,378 @@
     
     
     <item>
-      <title>Publications</title>
-      <link>https://trane293.github.io/publication/</link>
+      <title>Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network</title>
+      <link>https://trane293.github.io/publication/mmgan_arxiv/</link>
       <pubDate>Sun, 29 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://trane293.github.io/publication/</guid>
+      <guid>https://trane293.github.io/publication/mmgan_arxiv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://trane293.github.io/talk/</link>
+      <title>ERGO: Efficient Recurrent Graph Optimized Emitter Density Estimation in Single Molecule Localization Microscopy</title>
+      <link>https://trane293.github.io/publication/ergo_tmi/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/ergo_tmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Invited Talk] MM-GAN: Multi-Modal Generative Adversarial Network for Missing MRI Pulse Sequence Synthesis</title>
+      <link>https://trane293.github.io/talk/mmgan-ubc/</link>
       <pubDate>Mon, 20 May 2019 10:00:00 +0000</pubDate>
       
-      <guid>https://trane293.github.io/talk/</guid>
+      <guid>https://trane293.github.io/talk/mmgan-ubc/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kJgplkE_-4A&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Invited Talk] Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network</title>
+      <link>https://trane293.github.io/talk/mmgan-vin/</link>
+      <pubDate>Wed, 01 May 2019 15:30:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/mmgan-vin/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Deep Anomaly Detection with Outlier Exposure</title>
+      <link>https://trane293.github.io/talk/outlier-iclr2019/</link>
+      <pubDate>Thu, 25 Apr 2019 15:30:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/outlier-iclr2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Natural Language Processing in Text Mining for Structural Modeling of Protien Complexes</title>
+      <link>https://trane293.github.io/talk/nlp-structural-modelling/</link>
+      <pubDate>Tue, 20 Nov 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/nlp-structural-modelling/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Shape Registration in Implicit Spaces Using Information Theory and Free Form Deformations</title>
+      <link>https://trane293.github.io/talk/shape-reg/</link>
+      <pubDate>Wed, 31 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/shape-reg/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Interactive Live-Wire Boundary Extraction</title>
+      <link>https://trane293.github.io/talk/live-wire/</link>
+      <pubDate>Wed, 10 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/live-wire/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Extraction and Text Mining in Bioinformatics</title>
+      <link>https://trane293.github.io/talk/text-mining/</link>
+      <pubDate>Thu, 20 Sep 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/text-mining/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Canu: Scalable and Accurate Long-Read Assembly via Adaptive k-mer Weighting and Repeat Separation</title>
+      <link>https://trane293.github.io/talk/canu/</link>
+      <pubDate>Mon, 20 Aug 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/canu/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Missing Modalities in Medical Images What&#39;s Missing?</title>
+      <link>https://trane293.github.io/talk/missing_pulse_sequences/</link>
+      <pubDate>Thu, 12 Jul 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/missing_pulse_sequences/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A CADe System for Gliomas in Brain MRI using Convolutional Neural Networks</title>
+      <link>https://trane293.github.io/publication/cade-arxiv/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/cade-arxiv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://trane293.github.io/project/</link>
+      <title>Select, Attend, and Transfer: Light, Learnable Skip Connections</title>
+      <link>https://trane293.github.io/publication/sat-arxiv/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/sat-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Deep Reinforcement Learning Algorithms for Learning Control Policies for Physics-based Locomotion Tasks</title>
+      <link>https://trane293.github.io/project/animation-rl-project/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://trane293.github.io/project/</guid>
+      <guid>https://trane293.github.io/project/animation-rl-project/</guid>
+      <description>&lt;p&gt;Reinforcement learning (RL) have recently become the framework of choice to develop intelligent agents that can control various entities inside an environment through learning by trial and error. One such task where RL algorithms have been applied is to control simulated robots in a physics-based environment to achieve a set specific goal. These goals can be to run, walk, hop, grasp objects and so on depending on the environment. Recently due to a surge in deep learning (DL) research, RL algorithms have underwent a transformation where many algorithms were revived by utilizing DL methods in some of the internal workings of the RL algorithms. This class of algorithms were named as deep reinforcement learning (DRL). In this project we compare three different DRL algorithms with respect to their ability to control a simulated physics-based robot in an environment. More specifically, we compare Vanilla Policy Gradient (VPG) or REINFORCE, Trust Region Policy Optimization (TRPO) and Proximal Policy Optimization (PPO) algorithms in three different physics-based locomotion environments HalfCheetah-v2, Hopper-v2, and Walker2d-v2 defined in MuJoCo framework ordered by increasing difficulty. Through our experiments, we found the PPO exhibited better performance in all environments in terms of the total reward gained in an episode. VPG performed worse than PPO but better than TRPO due to its simplistic policy gradient approach, though the high variance in training process due to reliance on absolute episode rewards was evident from the experiments. We also observed the TRPO&amp;rsquo;s convergence is inherently highly predictable, stable, and mostly monotonically increasing, leading to good convergence guarantees but with increased training time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] SIMBICON and GENBICON: Physics Based Control Models for Locomotion</title>
+      <link>https://trane293.github.io/talk/simbicon-genbicon/</link>
+      <pubDate>Tue, 20 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/simbicon-genbicon/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Tutorial on Reinforcement Learning</title>
+      <link>https://trane293.github.io/talk/rl-tut/</link>
+      <pubDate>Wed, 14 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/rl-tut/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans</title>
+      <link>https://trane293.github.io/talk/rl-ct/</link>
+      <pubDate>Mon, 12 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/rl-ct/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Academic&#39;s [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluating Machine Translation Systems using Weighted Vote of Different Scoring Metrics</title>
+      <link>https://trane293.github.io/project/nlp-project/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/nlp-project/</guid>
+      <description>&lt;p&gt;Automatic evaluation metrics are fundamentally important for Machine Translation, allowing comparison of systems performance and efficient training. Current evaluation metrics fall into two classes: heuristic approaches, like BLEU or METEOR, and those using supervised learning trained on human judgment data. Evaluating a machine translation system using such heuristic metrics is faster, easier and cheaper as compared to human evaluations, which require trained bilingual evaluators. In this report, we present our approach to combine multiple automatic evaluation heuristics using machine learning and then compare the quality of translation of two different MT system. Our results show that while each heuristic approach can provide a valid comparison between two system, combining the techniques using our machine learning approach provides higher accuracy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling Chinese Word Segmentation as Sequence to Sequence Prediction Problem</title>
+      <link>https://trane293.github.io/project/nlp-mini-project/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/nlp-mini-project/</guid>
+      <description>&lt;iframe
+      src=&#34;https://trane293.github.io/files/cmpt_825_blstm_project&#34;
+      width=&#34;160%&#34;
+      height=&#34;1000px&#34;
+      style=&#34;border:10px;&#34;&gt;
+    &lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Survival Time for Patients Diagnosed with Gliomas Using Compressed Representation of Brain MRI Scans</title>
+      <link>https://trane293.github.io/project/ml-project/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/ml-project/</guid>
+      <description>&lt;p&gt;In this paper we investigate the problem of predicting survival time (in days) for patients diagnosed with high grade gliomas (gliobastoma multiforme) using their
+brain MRI studies. To approach this problem, we first reduce the input features into a compressed representation, learned using an unsupervised 3D convolutional neural network based autoencoder which is trained to predict its own input. Once the most informative features are learned, they are further reduced in dimensionality using singular value decomposition. We then try a number of regression based machine learning methods on this reduced data. We observe the best mean
+squared error (MSE) of 125048 using K-nearest neighbours. Our observed results in terms of MSE are close to the state of the art methods as of writing this paper.
+However given the regressors’ correlation results and domain knowledge, we conclude that using brain MRI data alone in this framework is insufficient to produce
+predictions with high correlation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Offline Handwritten Signature Verification using Zernike Moments</title>
+      <link>https://trane293.github.io/publication/signature-conference/</link>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/signature-conference/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://trane293.github.io/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Automatic Characterization of Breast Masses using NSGA-II based Feature Selection</title>
+      <link>https://trane293.github.io/project/mammogram-project/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://trane293.github.io/post/</guid>
+      <guid>https://trane293.github.io/project/mammogram-project/</guid>
+      <description>&lt;p&gt;Masses are one of the important yet challenging signs of breast cancer, visible in the mammogram. The paper presents a novel mass classification scheme via the introduction of new feature selection algorithm along with feature extraction technique. To capture complete and complex shape, we propose Translation, Rotation, and Shift (TRS) invariant Zernike moments as global shape descriptor. The extracted features are further clubbed with texture information. The discriminating features are then selected with a new wrapper-based feature selection scheme combined with multi-objective Non-dominated Sorting Genetic Algorithm (NSGA-II) where three objectives are optimized simultaneously. The experiments show that the proposed three objective functions allow the NSGAII to reduce the feature dimensionality from 312 to four, while significantly outperforming classifiers trained on features with high dimensionality. With a set of four features, the method achieves the best area under the receiver characteristic curve of 0.95 and an accuracy of 89.89% using an artificial neural network for 270 randomly selected images from the DDSM database.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Denoising using Spatial Domain Filters: A Quantitative Study</title>
+      <link>https://trane293.github.io/publication/image-conference/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/image-conference/</guid>
       <description></description>
     </item>
     
