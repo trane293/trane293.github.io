@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natural language processing on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/natural-language-processing/</link>
+    <description>Recent content in natural language processing on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Tue, 20 Nov 2018 15:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper Presentation] Natural Language Processing in Text Mining for Structural Modeling of Protien Complexes</title>
+      <link>https://trane293.github.io/talk/nlp-structural-modelling/</link>
+      <pubDate>Tue, 20 Nov 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/nlp-structural-modelling/</guid>
+      <description>Presenting a highly scientific paper in a way that high school students can understand. The paper is a state-of-art method that uses natural language processing based approach towards structural modelling of proteins.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Extraction and Text Mining in Bioinformatics</title>
+      <link>https://trane293.github.io/talk/text-mining/</link>
+      <pubDate>Thu, 20 Sep 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/text-mining/</guid>
+      <description>Literature survey on the uses of text mining and natural language processing methods in bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>Evaluating Machine Translation Systems using Weighted Vote of Different Scoring Metrics</title>
+      <link>https://trane293.github.io/project/nlp-project/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/nlp-project/</guid>
+      <description>We propose a novel multi-metric voting scheme for evaluating machine translation systems.</description>
+    </item>
+    
+    <item>
+      <title>Modelling Chinese Word Segmentation as Sequence to Sequence Prediction Problem</title>
+      <link>https://trane293.github.io/project/nlp-mini-project/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/nlp-mini-project/</guid>
+      <description>Re-imagining the problem of word segmentation as a sequence prediction problem, predicting spaces between words in a sequence.</description>
+    </item>
+    
+    <item>
+      <title>Offline Handwritten Signature Verification using Zernike Moments</title>
+      <link>https://trane293.github.io/publication/signature-conference/</link>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/signature-conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linear algebra on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/linear-algebra/</link>
+    <description>Recent content in linear algebra on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Wed, 10 Oct 2018 15:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/linear-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper Presentation] Interactive Live-Wire Boundary Extraction</title>
+      <link>https://trane293.github.io/talk/live-wire/</link>
+      <pubDate>Wed, 10 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/live-wire/</guid>
+      <description>Paper presentation for the Live-Wire segmentation method, that was famously used in Adobe Photoshop.</description>
+    </item>
+    
+  </channel>
+</rss>

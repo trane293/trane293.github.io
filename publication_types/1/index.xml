@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Anmol Sharma</title>
+    <link>https://trane293.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Sat, 19 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offline Handwritten Signature Verification using Zernike Moments</title>
+      <link>https://trane293.github.io/publication/signature-conference/</link>
+      <pubDate>Sat, 19 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/signature-conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Denoising using Spatial Domain Filters: A Quantitative Study</title>
+      <link>https://trane293.github.io/publication/image-conference/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/image-conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimization on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/optimization/</link>
+    <description>Recent content in optimization on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Wed, 10 Oct 2018 15:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper Presentation] Interactive Live-Wire Boundary Extraction</title>
+      <link>https://trane293.github.io/talk/live-wire/</link>
+      <pubDate>Wed, 10 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/live-wire/</guid>
+      <description>Paper presentation for the Live-Wire segmentation method, that was famously used in Adobe Photoshop.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Characterization of Breast Masses using NSGA-II based Feature Selection</title>
+      <link>https://trane293.github.io/project/mammogram-project/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/mammogram-project/</guid>
+      <description>Propose a new feature extraction and selection method using NSGA-II for classifying masses as benign or malignant.</description>
+    </item>
+    
+  </channel>
+</rss>

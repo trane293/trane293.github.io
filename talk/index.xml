@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Anmol Sharma</title>
+    <link>https://trane293.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Mon, 20 May 2019 10:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Invited Talk] MM-GAN: Multi-Modal Generative Adversarial Network for Missing MRI Pulse Sequence Synthesis</title>
+      <link>https://trane293.github.io/talk/mmgan-ubc/</link>
+      <pubDate>Mon, 20 May 2019 10:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/mmgan-ubc/</guid>
+      <description>Invited to present my research in which we proposed a multi-input, multi-output generative adversarial network (GAN) called MM-GAN as a poster presentation.</description>
+    </item>
+    
+    <item>
+      <title>[Invited Talk] Missing MRI Pulse Sequence Synthesis using Multi-Modal Generative Adversarial Network</title>
+      <link>https://trane293.github.io/talk/mmgan-vin/</link>
+      <pubDate>Wed, 01 May 2019 15:30:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/mmgan-vin/</guid>
+      <description>Invited to present my research in which we proposed a multi-input, multi-output generative adversarial network (GAN) called MM-GAN.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Deep Anomaly Detection with Outlier Exposure</title>
+      <link>https://trane293.github.io/talk/outlier-iclr2019/</link>
+      <pubDate>Thu, 25 Apr 2019 15:30:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/outlier-iclr2019/</guid>
+      <description>Presented an interesting paper from ICLR 2019 that performs out-of-distribution sample detection using a simple framework.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Natural Language Processing in Text Mining for Structural Modeling of Protien Complexes</title>
+      <link>https://trane293.github.io/talk/nlp-structural-modelling/</link>
+      <pubDate>Tue, 20 Nov 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/nlp-structural-modelling/</guid>
+      <description>Presenting a highly scientific paper in a way that high school students can understand. The paper is a state-of-art method that uses natural language processing based approach towards structural modelling of proteins.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Shape Registration in Implicit Spaces Using Information Theory and Free Form Deformations</title>
+      <link>https://trane293.github.io/talk/shape-reg/</link>
+      <pubDate>Wed, 31 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/shape-reg/</guid>
+      <description>This talk covers a classical method for shape registration using approaches from information theory and deformations.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Interactive Live-Wire Boundary Extraction</title>
+      <link>https://trane293.github.io/talk/live-wire/</link>
+      <pubDate>Wed, 10 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/live-wire/</guid>
+      <description>Paper presentation for the Live-Wire segmentation method, that was famously used in Adobe Photoshop.</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Extraction and Text Mining in Bioinformatics</title>
+      <link>https://trane293.github.io/talk/text-mining/</link>
+      <pubDate>Thu, 20 Sep 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/text-mining/</guid>
+      <description>Literature survey on the uses of text mining and natural language processing methods in bioinformatics.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Canu: Scalable and Accurate Long-Read Assembly via Adaptive k-mer Weighting and Repeat Separation</title>
+      <link>https://trane293.github.io/talk/canu/</link>
+      <pubDate>Mon, 20 Aug 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/canu/</guid>
+      <description>Presented a state-of-art long-read assembly pipeline &amp;lsquo;Canu&amp;rsquo;, which builds upon many existing methods.</description>
+    </item>
+    
+    <item>
+      <title>Dealing with Missing Modalities in Medical Images What&#39;s Missing?</title>
+      <link>https://trane293.github.io/talk/missing_pulse_sequences/</link>
+      <pubDate>Thu, 12 Jul 2018 13:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/missing_pulse_sequences/</guid>
+      <description>A talk regarding the current state-of-art in handling missing inputs for segmentation or classification problems.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] SIMBICON and GENBICON: Physics Based Control Models for Locomotion</title>
+      <link>https://trane293.github.io/talk/simbicon-genbicon/</link>
+      <pubDate>Tue, 20 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/simbicon-genbicon/</guid>
+      <description>Presented two seminal models of physics-based walking, called SIMBICON and GENBICON. The course instructor KangKang Yin is the inventor of SIMBICON.</description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Tutorial on Reinforcement Learning</title>
+      <link>https://trane293.github.io/talk/rl-tut/</link>
+      <pubDate>Wed, 14 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/rl-tut/</guid>
+      <description>A mathematical, in-depth tutorial about reinforcement learning presented to the lab members. This was to facilitate members to take up RL methods and apply them to their respective problem areas, as well as for myself to understand RL in an in-depth way.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans</title>
+      <link>https://trane293.github.io/talk/rl-ct/</link>
+      <pubDate>Mon, 12 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/rl-ct/</guid>
+      <description>This talk covers the first known application of reinforcement learning agents for landmark detection in CT Scans in medical imaging.</description>
+    </item>
+    
+  </channel>
+</rss>

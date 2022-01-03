@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ngs-sequencing on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/ngs-sequencing/</link>
+    <description>Recent content in ngs-sequencing on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Mon, 20 Aug 2018 15:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/ngs-sequencing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper Presentation] Canu: Scalable and Accurate Long-Read Assembly via Adaptive k-mer Weighting and Repeat Separation</title>
+      <link>https://trane293.github.io/talk/canu/</link>
+      <pubDate>Mon, 20 Aug 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/canu/</guid>
+      <description>Presented a state-of-art long-read assembly pipeline &amp;lsquo;Canu&amp;rsquo;, which builds upon many existing methods.</description>
+    </item>
+    
+  </channel>
+</rss>

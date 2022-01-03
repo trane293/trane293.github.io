@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shape registration on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/shape-registration/</link>
+    <description>Recent content in shape registration on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Wed, 31 Oct 2018 15:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/shape-registration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Paper Presentation] Shape Registration in Implicit Spaces Using Information Theory and Free Form Deformations</title>
+      <link>https://trane293.github.io/talk/shape-reg/</link>
+      <pubDate>Wed, 31 Oct 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/shape-reg/</guid>
+      <description>This talk covers a classical method for shape registration using approaches from information theory and deformations.</description>
+    </item>
+    
+  </channel>
+</rss>

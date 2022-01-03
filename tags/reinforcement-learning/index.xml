@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reinforcement learning on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/reinforcement-learning/</link>
+    <description>Recent content in reinforcement learning on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparison of Deep Reinforcement Learning Algorithms for Learning Control Policies for Physics-based Locomotion Tasks</title>
+      <link>https://trane293.github.io/project/animation-rl-project/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/animation-rl-project/</guid>
+      <description>Comparison of various state-of-art reinforcement learning algorithms</description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Tutorial on Reinforcement Learning</title>
+      <link>https://trane293.github.io/talk/rl-tut/</link>
+      <pubDate>Wed, 14 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/rl-tut/</guid>
+      <description>A mathematical, in-depth tutorial about reinforcement learning presented to the lab members. This was to facilitate members to take up RL methods and apply them to their respective problem areas, as well as for myself to understand RL in an in-depth way.</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] Multi-Scale Deep Reinforcement Learning for Real-Time 3D-Landmark Detection in CT Scans</title>
+      <link>https://trane293.github.io/talk/rl-ct/</link>
+      <pubDate>Mon, 12 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/rl-ct/</guid>
+      <description>This talk covers the first known application of reinforcement learning agents for landmark detection in CT Scans in medical imaging.</description>
+    </item>
+    
+  </channel>
+</rss>

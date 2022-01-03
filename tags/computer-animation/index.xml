@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer animation on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/computer-animation/</link>
+    <description>Recent content in computer animation on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/computer-animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparison of Deep Reinforcement Learning Algorithms for Learning Control Policies for Physics-based Locomotion Tasks</title>
+      <link>https://trane293.github.io/project/animation-rl-project/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/project/animation-rl-project/</guid>
+      <description>Comparison of various state-of-art reinforcement learning algorithms</description>
+    </item>
+    
+    <item>
+      <title>[Paper Presentation] SIMBICON and GENBICON: Physics Based Control Models for Locomotion</title>
+      <link>https://trane293.github.io/talk/simbicon-genbicon/</link>
+      <pubDate>Tue, 20 Mar 2018 15:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/talk/simbicon-genbicon/</guid>
+      <description>Presented two seminal models of physics-based walking, called SIMBICON and GENBICON. The course instructor KangKang Yin is the inventor of SIMBICON.</description>
+    </item>
+    
+  </channel>
+</rss>

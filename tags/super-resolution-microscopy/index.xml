@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>super resolution microscopy on Anmol Sharma</title>
+    <link>https://trane293.github.io/tags/super-resolution-microscopy/</link>
+    <description>Recent content in super resolution microscopy on Anmol Sharma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All rights reserved. Information is subject to change. 2019</copyright>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://trane293.github.io/tags/super-resolution-microscopy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ERGO: Efficient Recurrent Graph Optimized Emitter Density Estimation in Single Molecule Localization Microscopy</title>
+      <link>https://trane293.github.io/publication/ergo_tmi/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://trane293.github.io/publication/ergo_tmi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
